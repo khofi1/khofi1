@@ -1,4 +1,4 @@
-````markdown
+
 <h1 align="center">🖤 Khofi | dev.log()</h1>
 <p align="center">
   <i>Desarrollador. Creador. Rompedor de cosas (y a veces, arreglador).</i><br>
@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 Sobre mí
-```js
+js
 const khofi = {
   nombre: "Khofi",
   rol: "Fullstack Developer",
@@ -16,7 +16,7 @@ const khofi = {
   pasiones: ["Automatizar todo", "Crear sistemas eficientes", "Aprender cada día"],
   disponible_para_proyectos: true,
 }
-````
+
 
 ---
 
