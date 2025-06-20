@@ -11,7 +11,7 @@
 Un desarrollador fullstack con pasión por crear soluciones inteligentes, eficientes y visualmente atractivas. Me especializo en sistemas personalizados para comunidades, bots para Discord, y dashboards web.
 ---
 
-### 🛠️ Stack de batalla
+### 🛠️ Lenguajes
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat\&logo=lua\&logoColor=white)
@@ -33,13 +33,11 @@ Un desarrollador fullstack con pasión por crear soluciones inteligentes, eficie
 
 ### 📫 Contacto
 
-* Discord: `Khofi#0001`
-* GitHub Projects en progreso 🔍
-* Portfolio en construcción... 🏗️
+* e-mail: `cryyne3@gmail.com`
 
 ---
 
 <p align="center">
   <i>"No se trata solo de escribir código, se trata de crear experiencias."</i>
 </p>
-```
+
