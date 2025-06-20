@@ -25,8 +25,7 @@ Un desarrollador fullstack con pasión por crear soluciones inteligentes, eficie
 
 ### 🔭 Actualmente trabajando en:
 
-* 🚨 Sistema de robos y notificaciones persistentes para FiveM
-* 🧾 Bitácoras inteligentes con reportes semanales
+* 🧾 Desarrollo web
 * 🧠 Automatización de paneles con control avanzado de UI
 
 ---
