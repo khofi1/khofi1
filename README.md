@@ -8,25 +8,7 @@
 ---
 
 ### 🧠 Sobre mí
-```js
-const khofi = {
-  nombre: "Khofi",
-  rol: "Fullstack Developer",
-  especialidad: ["FiveM", "ESX", "Lua", "Node.js", "UI/UX"],
-  pasiones: ["Automatizar todo", "Crear sistemas eficientes", "Aprender cada día"],
-  disponible_para_proyectos: true,
-}
-
-
----
-
-### ⚙️ ¿Qué vas a encontrar acá?
-
-* 🧩 Scripts custom para servidores **FiveM**
-* 📱 Interfaces visuales limpias y responsivas
-* 🤖 Bots de Discord que hacen más que solo responder comandos
-* 💥 Proyectos experimentales, ideas locas y código del bueno
-
+Un desarrollador fullstack con pasión por crear soluciones inteligentes, eficientes y visualmente atractivas. Me especializo en sistemas personalizados para comunidades, bots para Discord, y dashboards web.
 ---
 
 ### 🛠️ Stack de batalla
