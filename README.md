@@ -2,7 +2,7 @@
 <h1 align="center">🖤 Khofi | dev.log()</h1>
 <p align="center">
   <i>Desarrollador. Creador. Rompedor de cosas (y a veces, arreglador).</i><br>
-  <b>Bienvenid@ a mi laboratorio digital ☕</b>
+  <b>Bienvenid@  ☕</b>
 </p>
 
 ---
