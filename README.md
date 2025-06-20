@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 Sobre mí
-js
+```js
 const khofi = {
   nombre: "Khofi",
   rol: "Fullstack Developer",
